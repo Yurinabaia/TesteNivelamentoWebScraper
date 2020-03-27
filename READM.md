@@ -4,3 +4,4 @@
 ### Para testa o projeto deve baixa o repositorio e compila no Eclipse<br>
 ### Caso o programa não compile por causa da biblioteca Jsoup segue um vídeo que se encontra no repositorio explicando como colocar a biblioteca Jsoup no projeto pelo o Eclipse;
 ### Nome do Vídeo: TutorialJsoup.mp4;
+### Link do Jsoup: https://jsoup.org/download
